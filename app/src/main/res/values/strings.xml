@@ -1,0 +1,10 @@
+<resources>
+    <!--app名前設定-->
+    <string name="app_name">Ringring</string>
+    <!--ナビ-->
+    <string name="title_home">ホーム</string>
+    <string name="title_follow">フォロー</string>
+    <string name="title_message">メッセージ</string>
+    <string name="title_mypage">マイページ</string>
+
+</resources>
